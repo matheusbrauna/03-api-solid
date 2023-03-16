@@ -12,12 +12,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@types/node": "^18.15.3",
-    "tsup": "^6.6.3",
-    "tsx": "^3.12.5",
-    "typescript": "^5.0.2"
+    "@types/node": "18.15.3",
+    "tsup": "6.6.3",
+    "tsx": "3.12.5",
+    "typescript": "5.0.2"
   },
   "dependencies": {
-    "fastify": "^4.14.1"
+    "fastify": "4.14.1"
   }
 }

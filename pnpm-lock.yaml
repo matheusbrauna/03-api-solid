@@ -1,11 +1,11 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@types/node': ^18.15.3
-  fastify: ^4.14.1
-  tsup: ^6.6.3
-  tsx: ^3.12.5
-  typescript: ^5.0.2
+  '@types/node': 18.15.3
+  fastify: 4.14.1
+  tsup: 6.6.3
+  tsx: 3.12.5
+  typescript: 5.0.2
 
 dependencies:
   fastify: 4.14.1
